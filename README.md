@@ -1,4 +1,4 @@
-# 【3月持续更新】ChatGPT 官方 中文版：国内访问ChatGPT镜像指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）
+# 【4月持续更新】ChatGPT 官方 中文版：国内访问ChatGPT镜像指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）
 
 > **更新时间： 2025/04/06**   
 
@@ -7,7 +7,7 @@
 
 ChatGPT 官网入口：[https://chatgpt.com](https://chatgpt.com)   
 ChatGPT 中文版入口：[https://gptcat.cc/](https://gptcat.cc/)   
-ChatGPT 镜像网站入口：[https://snakegpt.chat/chat](https://snakegpt.chat/chat)
+ChatGPT 镜像网站入口：[https://snakegpt.chat](https://snakegpt.chat)
 
 ---
 
